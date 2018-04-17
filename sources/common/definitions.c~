@@ -1,0 +1,20 @@
+#include"definitions.h"
+
+double PLAYER_M[PLAYER_NUM]={
+  10,10,10,10
+};
+double PLAYER_V_MAX[PLAYER_NUM]={
+  10,40,40,40
+};
+double PLAYER_A_MAX[PLAYER_NUM]={
+  5,5,5,5
+};
+double PLAYER_FRICTION_A[PLAYER_NUM]={
+  0.8,0.8,0.8,0.8
+};
+double PLAYER_HANDLING_ARG[PLAYER_NUM]={
+  5,5,5,5
+};
+double PLAYER_R[PLAYER_NUM]={
+  20,20,20,20
+};

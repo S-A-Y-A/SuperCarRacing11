@@ -1,0 +1,17 @@
+#include"server.h"
+
+
+void Start_Setting(){
+  
+  
+  
+}
+
+
+void Input_Map_ID(){
+  
+}
+
+void Select_Player_Num(){
+  
+}
