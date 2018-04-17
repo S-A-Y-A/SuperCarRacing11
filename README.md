@@ -19,6 +19,7 @@
 	$ make
 	MacアプリSuperRacing11.app、SuperRacing11_Server.appがsources下に生成される
 	このファイルはどのフォルダに移動させても実行できる
+  
 	また、
 	$ make develop
 	を実行するとsourcesフォルダ下に実行ファイルserver.out,client.outが生成される
@@ -29,6 +30,7 @@
 	$ open SuperRacing11.app
 	$ open SuperRacing11_Server.app
 	で起動できる
+  
 	実行ファイルserver.out,client.outは
 	$ ./server.out
 	$ ./client.out
