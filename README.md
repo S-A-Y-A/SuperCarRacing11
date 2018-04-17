@@ -30,6 +30,7 @@
 	$ open SuperRacing11.app
 	$ open SuperRacing11_Server.app
 	で起動できる  
+	
 	実行ファイルserver.out,client.outは
 	$ ./server.out
 	$ ./client.out
